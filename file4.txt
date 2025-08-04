@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file in github
+=======
+new file added
+>>>>>>> f0fe65f (New file)
